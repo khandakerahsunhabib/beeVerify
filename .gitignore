@@ -1,0 +1,4 @@
+# Local unencrypted source and encryption tool (never commit to public repository)
+app.source.html
+encrypt.js
+.DS_Store
